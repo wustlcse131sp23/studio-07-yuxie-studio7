@@ -1,7 +1,5 @@
 package studio7;
 
-import java.util.Scanner;
-
 public class HockeyPlayer {
 	private String name;
 	private int jerseyNumber;
